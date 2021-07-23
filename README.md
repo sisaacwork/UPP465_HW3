@@ -7,7 +7,7 @@ Filelist:
   <br>
   style_HW3.css
   <br>
-  _Pictures_
+  <p style = "text-indent:10px">_Pictures_</p>
   <br>
     amazondrone.mp4
 
