@@ -1,5 +1,5 @@
 # UPP465 - Web GIS
-# Homework 3
+## Homework 3
 
 Filelist:
   UPP465_HW3.html
